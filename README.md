@@ -1,5 +1,3 @@
-Here's the revised summary written in the first person:
-
 # D205 - TGM3 TASK 1: DATA ACQUISITION
 
 ## Course Summary
